@@ -1,3 +1,0 @@
-SELECT firstname, lastname, title
-From Employee
-LIMIT 5;
